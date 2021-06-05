@@ -1,0 +1,23 @@
+Screen1 As screen:
+    Height: =Max(App.Height, App.DesignHeight)
+    Width: =Max(App.Width, App.DesignWidth)
+
+    BarcodeScanner1 As barcodeScanner:
+        Height: =70
+        Size: =24
+        Text: ="Scan"
+        Width: =280
+        X: =171
+        Y: =480
+        ZIndex: =1
+
+    Label1 As label:
+        Height: =350
+        Overflow: =Overflow.Scroll
+        Size: =21
+        Text: =BarcodeScanner1.Value
+        Width: =560
+        X: =31
+        Y: =706
+        ZIndex: =2
+

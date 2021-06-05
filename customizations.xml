@@ -1,0 +1,45 @@
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities></Entities>
+  <Roles></Roles>
+  <Workflows></Workflows>
+  <FieldSecurityProfiles></FieldSecurityProfiles>
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <CustomControls />
+  <EntityDataProviders />
+  <CanvasApps>
+    <CanvasApp>
+      <Name>new_qrcodeapp_e5cf5</Name>
+      <AppVersion>2021-01-30T06:04:45Z</AppVersion>
+      <Status>Ready</Status>
+      <CreatedByClientVersion>3.20071.24.0</CreatedByClientVersion>
+      <MinClientVersion>3.20071.24.0</MinClientVersion>
+      <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"76ce2236-91b1-46f7-97d1-bf1da489316b","deviceCapabilities":"webcam","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.20071.24","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+      <IsCdsUpgraded>0</IsCdsUpgraded>
+      <GalleryItemId xsi:nil="true"></GalleryItemId>
+      <BackgroundColor>rgba(44, 125, 154, 1)</BackgroundColor>
+      <DisplayName>QRCode-App</DisplayName>
+      <Description></Description>
+      <CommitMessage></CommitMessage>
+      <Publisher></Publisher>
+      <AuthorizationReferences xsi:nil="true"></AuthorizationReferences>
+      <ConnectionReferences>{}</ConnectionReferences>
+      <DatabaseReferences>{}</DatabaseReferences>
+      <CanvasAppType>0</CanvasAppType>
+      <BypassConsent>0</BypassConsent>
+      <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <CdsDependencies xsi:nil="true"></CdsDependencies>
+      <IsCustomizable>1</IsCustomizable>
+      <BackgroundImageUri>/CanvasApps/new_qrcodeapp_e5cf5_BackgroundImageUri</BackgroundImageUri>
+      <DocumentUri>/CanvasApps/new_qrcodeapp_e5cf5_DocumentUri.msapp</DocumentUri>
+    </CanvasApp>
+  </CanvasApps>
+  <Languages>
+    <Language>1041</Language>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>

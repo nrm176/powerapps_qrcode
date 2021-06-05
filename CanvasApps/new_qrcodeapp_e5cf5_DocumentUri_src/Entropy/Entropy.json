@@ -1,0 +1,33 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "BarcodeScanner1": 4,
+    "Label1": 5,
+    "Screen1": 3
+  },
+  "HeaderLastSavedDateTimeUTC": "08/05/2020 02:31:27",
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceRootPaths": {},
+  "OldLogoFileName": "wxshz3gr.jpg",
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "barcodeScanner": 0,
+    "label": 1
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "BarcodeScanner1": 0,
+    "Label1": 1,
+    "Screen1": 0
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.016541799999999999,
+    "ControlCount": {}
+  }
+}
